@@ -1,0 +1,3 @@
+如果想学习更多Visual Studio知识，请参考Scott Cate的Visual Studio 2010知识与技巧系列。他发表了一系列精彩的免费视频和文章。
+
+也可以参考 Jim Griesmer的Visual Studio调试技巧系列。他有着丰富的知识可供大家学习。
