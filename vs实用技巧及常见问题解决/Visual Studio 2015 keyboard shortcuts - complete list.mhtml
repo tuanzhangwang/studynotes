@@ -1,0 +1,988 @@
+From: <Saved by Blink>
+Subject: Visual Studio 2015 keyboard shortcuts - complete list
+Date: Thu, 17 Jan 2018 00:44:54 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--gkyEr0YLTVJtMDoU5bEO9342wrmZ1wUoleK7f3CFMX----"
+
+------MultipartBoundary--gkyEr0YLTVJtMDoU5bEO9342wrmZ1wUoleK7f3CFMX----
+Content-Type: text/html
+Content-ID: <frame-17-6e724f18-586c-4082-92a9-a2fa02783678@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://visualstudioshortcuts.com/2015/
+
+<!DOCTYPE html><html manifest=3D"http://visualstudioshortcuts.com/v-6352442=
+22209781219/site.appcache" itemscope=3D"" itemtype=3D"http://schema.org/Web=
+Page"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8">
+=09
+	<title>Visual Studio 2015 keyboard shortcuts - complete list</title>
+	<link rel=3D"icon" href=3D"http://visualstudioshortcuts.com/v-635233718792=
+883420/favicon.ico" type=3D"image/x-icon">
+	<meta name=3D"description" content=3D"A complete list of all keyboard shor=
+tcuts in Visual Studio 2015">
+	<meta name=3D"keywords" content=3D"shortcut, shortcuts, keybinding, key bi=
+nding, vs, visual studio 2015">
+	<style>body{font:15px arial;margin:0;padding:0;height:100%}header{text-ali=
+gn:center;font-size:1.4em;margin:1.5em 0}header h2,header h1{margin:0;paddi=
+ng:0}header ul{list-style:none;margin:1em 0;padding:0}header ul:before{cont=
+ent:"Visual Studio "}header ul li{display:inline-block;margin:0 .5em}sectio=
+n{-moz-columns:350px auto;-webkit-columns:350px auto;columns:350px auto;-mo=
+z-column-gap:2em;-webkit-column-gap:2em;column-gap:2em;margin:1em;padding:0=
+}section article{-webkit-column-break-inside:avoid;overflow:hidden;margin:0=
+ auto 1em auto;width:370px}section h3{font-size:1.2em;border-bottom:1px sol=
+id #1e90ff;color:#228b22}section dl{margin:0;font:16px monospace}section dt=
+{font-weight:bold;margin-top:5px}section dd{margin-left:10px}section dd:bef=
+ore{content:'=E2=86=92 ';color:#1e90ff}aside a{position:absolute;top:0;righ=
+t:0;width:149px;height:149px;background:url(/css/github.png) no-repeat;text=
+-indent:-9999px}footer{text-align:center;background:#333;color:#fff;padding=
+:1px 0}footer p:first-child{font-size:1.4em}footer a{color:#fff}@media only=
+ screen and (max-width:1024px){h1{font-size:1.5em}h2{font-size:1em}h3{font-=
+size:1.8em !important}dl{font-size:1.5em !important}}@media print{body{widt=
+h:1100px}footer{display:none}}</style>
+</head>
+<body>
+
+	<header role=3D"banner">
+		<h1>Visual Studio 2015 keyboard shortcuts</h1>
+		<h2>The complete list</h2>
+		<nav>
+			<ul>
+				<li><a href=3D"http://visualstudioshortcuts.com/2012/">2012</a></li>
+				<li><a href=3D"http://visualstudioshortcuts.com/2013/">2013</a></li>
+				<li><a href=3D"http://visualstudioshortcuts.com/2015/">2015</a></li>
+                <li><a href=3D"http://visualstudioshortcuts.com/2017/">2017=
+</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<section role=3D"main">
+		<article>
+<h3>Analyze</h3>
+<dl>
+<dt>Navigate Backward</dt>
+<dd>Shift+Alt+3</dd><dt>Navigate Forward</dt>
+<dd>Shift+Alt+4</dd></dl>
+</article>
+<article>
+<h3>Architecture</h3>
+<dl>
+<dt>New Code Map</dt>
+<dd>Ctrl+\, Ctrl+O</dd><dt>New UMLor Layer Diagram</dt>
+<dd>Ctrl+\, Ctrl+N</dd></dl>
+</article>
+<article>
+<h3>Architecture Context Menus</h3>
+<dl>
+<dt>Add Node</dt>
+<dd>Ins</dd><dt>Both Dependencies</dt>
+<dd>B</dd><dt>Incoming Dependencies</dt>
+<dd>I</dd><dt>Outgoing Dependencies</dt>
+<dd>O</dd><dt>New Comment</dt>
+<dd>Ctrl+Shift+K</dd><dd>Ctrl+E, C</dd><dt>Remove</dt>
+<dd>Del</dd><dt>Rename</dt>
+<dd>F2</dd></dl>
+</article>
+<article>
+<h3>Build</h3>
+<dl>
+<dt>Build Solution</dt>
+<dd>Ctrl+Shift+B</dd><dt>Cancel</dt>
+<dd>Ctrl+Break</dd><dt>Compile</dt>
+<dd>Ctrl+F7</dd><dt>Run Code Analysison Solution</dt>
+<dd>Alt+F11</dd></dl>
+</article>
+<article>
+<h3>Class Diagram</h3>
+<dl>
+<dt>Collapse</dt>
+<dd>Num -</dd><dt>Expand</dt>
+<dd>Num +</dd></dl>
+</article>
+<article>
+<h3>Class View Context Menus</h3>
+<dl>
+<dt>Properties</dt>
+<dd>Alt+Enter</dd></dl>
+</article>
+<article>
+<h3>Misc</h3>
+<dl>
+<dt>Commit All Edits</dt>
+<dd>Shift+Alt+U</dd><dt>Move Left Edgetotheleft</dt>
+<dd>Ctrl+Shift+,</dd><dt>Move Left Edgetotheright</dt>
+<dd>Ctrl+Shift+.</dd><dt>Move Right Edgetotheleft</dt>
+<dd>Ctrl+Shift+Alt+,</dd><dt>Move Right Edgetotheright</dt>
+<dd>Ctrl+Shift+Alt+.</dd><dt>TSql Editor Clone Query</dt>
+<dd>Ctrl+Alt+N</dd><dt>TSql Editor Database Combo</dt>
+<dd>Shift+Alt+PgDn</dd><dt>View File In Script Panel</dt>
+<dd>Shift+Alt+PgDn</dd></dl>
+</article>
+<article>
+<h3>Debug</h3>
+<dl>
+<dt>Apply Code Changes</dt>
+<dd>Alt+F10</dd><dt>Attachto Process</dt>
+<dd>Ctrl+Alt+P</dd><dt>Autos</dt>
+<dd>Ctrl+Alt+V, A</dd><dt>Break All</dt>
+<dd>Ctrl+Alt+Break</dd><dt>Breakat Function</dt>
+<dd>Ctrl+B</dd><dt>Breakpoints</dt>
+<dd>Ctrl+Alt+B</dd><dt>Call Stack</dt>
+<dd>Ctrl+Alt+C</dd><dt>Debug Windows Phone Internet Explorer</dt>
+<dd>Ctrl+Shift+P</dd><dt>Delete All Breakpoints</dt>
+<dd>Ctrl+Shift+F9</dd><dt>Launch</dt>
+<dd>Alt+F2</dd><dt>Stop Collection</dt>
+<dd>Ctrl+Alt+F2</dd><dt>Disassembly</dt>
+<dd>Ctrl+Alt+D</dd><dt>Enable Breakpoint</dt>
+<dd>Ctrl+F9</dd><dt>Exceptions</dt>
+<dd>Ctrl+Alt+E</dd><dt>Go To Previous Callor Intelli Trace Event</dt>
+<dd>Ctrl+Shift+F11</dd><dt>Start Diagnostics</dt>
+<dd>Alt+F5</dd><dt>Immediate</dt>
+<dd>Ctrl+Alt+I</dd><dt>Intelli Trace Calls</dt>
+<dd>Ctrl+Alt+Y, T</dd><dt>Intelli Trace Events</dt>
+<dd>Ctrl+Alt+Y, F</dd><dt>Java Script Console</dt>
+<dd>Ctrl+Alt+V, C</dd><dt>Locals</dt>
+<dd>Ctrl+Alt+V, L</dd><dt>Process Combo</dt>
+<dd>Ctrl+5</dd><dt>Stack Frame Combo</dt>
+<dd>Ctrl+7</dd><dt>Thread Combo</dt>
+<dd>Ctrl+6</dd><dt>Toggle Current Thread Flagged State</dt>
+<dd>Ctrl+8</dd><dt>Toggle Flagged Threads</dt>
+<dd>Ctrl+9</dd><dt>Memory1</dt>
+<dd>Ctrl+Alt+M, 1</dd><dt>Memory2</dt>
+<dd>Ctrl+Alt+M, 2</dd><dt>Memory3</dt>
+<dd>Ctrl+Alt+M, 3</dd><dt>Memory4</dt>
+<dd>Ctrl+Alt+M, 4</dd><dt>Modules</dt>
+<dd>Ctrl+Alt+U</dd><dt>Parallel Stacks</dt>
+<dd>Ctrl+Shift+D, S</dd><dt>Parallel Watch1</dt>
+<dd>Ctrl+Shift+D, 1</dd><dt>Parallel Watch2</dt>
+<dd>Ctrl+Shift+D, 2</dd><dt>Parallel Watch3</dt>
+<dd>Ctrl+Shift+D, 3</dd><dt>Parallel Watch4</dt>
+<dd>Ctrl+Shift+D, 4</dd><dt>Show</dt>
+<dd>Ctrl+Shift+D, D</dd><dt>Processes</dt>
+<dd>Ctrl+Alt+Z</dd><dt>Quick Watch</dt>
+<dd>Shift+F9</dd><dd>Ctrl+Alt+Q</dd><dt>Refresh</dt>
+<dd>F5</dd><dt>Refresh Windowsapp</dt>
+<dd>Ctrl+Shift+R</dd><dt>Registers</dt>
+<dd>Ctrl+Alt+G</dd><dt>Restart</dt>
+<dd>Ctrl+Shift+F5</dd><dt>Run To Cursor</dt>
+<dd>Ctrl+F10</dd><dt>Select Element</dt>
+<dd>Ctrl+B</dd><dt>Set Next Statement</dt>
+<dd>Ctrl+Shift+F10</dd><dt>Show All</dt>
+<dd>Ctrl+Alt+V, D</dd><dt>Show Call Stackon Code Map</dt>
+<dd>Ctrl+Shift+`</dd><dt>Show Layout</dt>
+<dd>Ctrl+Shift+I</dd><dt>Show Next Statement</dt>
+<dd>Alt+Num *</dd><dt>Start</dt>
+<dd>F5</dd><dt>Start Windows Phone Application Analysis</dt>
+<dd>Alt+F1</dd><dt>Start Without Debugging</dt>
+<dd>Ctrl+F5</dd><dt>Step Into</dt>
+<dd>F11</dd><dt>Step Into Current Process</dt>
+<dd>Ctrl+Alt+F11</dd><dt>Step Into Specific</dt>
+<dd>Shift+Alt+F11</dd><dt>Step Out</dt>
+<dd>Shift+F11</dd><dt>Step Out Current Process</dt>
+<dd>Ctrl+Shift+Alt+F11</dd><dt>Step Over</dt>
+<dd>F10</dd><dt>Step Over Current Process</dt>
+<dd>Ctrl+Alt+F10</dd><dt>Stop Debugging</dt>
+<dd>Shift+F5</dd><dt>Stop Performance Analysis</dt>
+<dd>Shift+Alt+F2</dd><dt>Tasks</dt>
+<dd>Ctrl+Shift+D, K</dd><dt>Threads</dt>
+<dd>Ctrl+Alt+H</dd><dt>Toggle Breakpoint</dt>
+<dd>F9</dd><dt>Toggle Disassembly</dt>
+<dd>Ctrl+F11</dd><dt>Watch1</dt>
+<dd>Ctrl+Alt+W, 1</dd><dt>Watch2</dt>
+<dd>Ctrl+Alt+W, 2</dd><dt>Watch3</dt>
+<dd>Ctrl+Alt+W, 3</dd><dt>Watch4</dt>
+<dd>Ctrl+Alt+W, 4</dd></dl>
+</article>
+<article>
+<h3>Debugger Context Menus</h3>
+<dl>
+<dt>Delete</dt>
+<dd>Alt+F9, D</dd><dt>Go To Disassembly</dt>
+<dd>Alt+F9, A</dd><dt>Go To Source Code</dt>
+<dd>Alt+F9, S</dd></dl>
+</article>
+<article>
+<h3>Design</h3>
+<dl>
+<dt>Fit All</dt>
+<dd>Ctrl+0</dd><dt>Refresh Page</dt>
+<dd>Ctrl+R</dd><dt>Search CSSPI</dt>
+<dd>Ctrl+Shift+;</dd><dt>Show Handles</dt>
+<dd>F9</dd><dt>Toggle Interactive Mode</dt>
+<dd>Ctrl+Alt+I</dd><dt>Zoom In</dt>
+<dd>Ctrl+Alt+=3D</dd><dt>Zoom Out</dt>
+<dd>Ctrl+Alt+-</dd></dl>
+</article>
+<article>
+<h3>Diff</h3>
+<dl>
+<dt>Ignore Trim Whitespace</dt>
+<dd>Ctrl+\, Ctrl+Space</dd><dt>Inline View</dt>
+<dd>Ctrl+\, Ctrl+1</dd><dt>Left Only View</dt>
+<dd>Ctrl+\, Ctrl+3</dd><dt>Next Difference</dt>
+<dd>F8</dd><dt>Previous Difference</dt>
+<dd>Shift+F8</dd><dt>Right Only View</dt>
+<dd>Ctrl+\, Ctrl+4</dd><dt>Side By Side View</dt>
+<dd>Ctrl+\, Ctrl+2</dd><dt>Switch Between Left And Right</dt>
+<dd>Ctrl+\, Ctrl+Tab</dd><dt>Synchronize View Toggle</dt>
+<dd>Ctrl+\, Ctrl+Down Arrow</dd></dl>
+</article>
+<article>
+<h3>Edit</h3>
+<dl>
+<dt>Break Line</dt>
+<dd>Enter</dd><dt>Char Left</dt>
+<dd>Left Arrow</dd><dt>Char Left Extend</dt>
+<dd>Shift+Left Arrow</dd><dt>Char Left Extend Column</dt>
+<dd>Shift+Alt+Left Arrow</dd><dt>Char Right</dt>
+<dd>Right Arrow</dd><dt>Char Right Extend</dt>
+<dd>Shift+Right Arrow</dd><dt>Char Right Extend Column</dt>
+<dd>Shift+Alt+Right Arrow</dd><dt>Char Transpose</dt>
+<dd>Ctrl+T</dd><dt>Clear All</dt>
+<dd>Ctrl+Alt+C</dd><dt>Clear Bookmarks</dt>
+<dd>Ctrl+K, Ctrl+L</dd><dt>Collapse All Outlining</dt>
+<dd>Ctrl+M, Ctrl+A</dd><dt>Collapse Current Region</dt>
+<dd>Ctrl+M, Ctrl+S</dd><dt>Collapse Tag</dt>
+<dd>Ctrl+M, Ctrl+T</dd><dt>Collapseto Definitions</dt>
+<dd>Ctrl+M, Ctrl+O</dd><dt>Comment Selection</dt>
+<dd>Ctrl+K, Ctrl+C</dd><dt>Complete Word</dt>
+<dd>Ctrl+Space</dd><dd>Alt+Right Arrow</dd><dd>Ctrl+K, W</dd><dd>Ctrl+K, Ct=
+rl+W</dd><dt>Copy</dt>
+<dd>Ctrl+C</dd><dd>Ctrl+Ins</dd><dt>Copy Parameter Tip</dt>
+<dd>Ctrl+Shift+Alt+C</dd><dt>Create Copyof Work Item</dt>
+<dd>Shift+Alt+C</dd><dt>Cut</dt>
+<dd>Ctrl+X</dd><dd>Shift+Del</dd><dt>Cycle Clipboard Ring</dt>
+<dd>Ctrl+Shift+V</dd><dd>Ctrl+Shift+Ins</dd><dt>Decrease Filter Level</dt>
+<dd>Alt+,</dd><dt>Delete</dt>
+<dd>Del</dd><dd>Ctrl+Del</dd><dd>Shift+Del</dd><dt>Delete Backwards</dt>
+<dd>Bkspce</dd><dd>Shift+Bkspce</dd><dt>Delete From Model</dt>
+<dd>Shift+Del</dd><dt>Delete Horizontal White Space</dt>
+<dd>Ctrl+K, Ctrl+\</dd><dt>Document End</dt>
+<dd>Ctrl+End</dd><dd>End</dd><dt>Document End Extend</dt>
+<dd>Ctrl+Shift+End</dd><dd>Shift+End</dd><dt>Document Start</dt>
+<dd>Ctrl+Home</dd><dd>Home</dd><dt>Document Start Extend</dt>
+<dd>Ctrl+Shift+Home</dd><dd>Shift+Home</dd><dt>Edit Cell</dt>
+<dd>F2</dd><dt>Expand All Outlining</dt>
+<dd>Ctrl+M, Ctrl+X</dd><dt>Expand Collapse Base Type List</dt>
+<dd>Shift+Alt+B</dd><dt>Expand Current Region</dt>
+<dd>Ctrl+M, Ctrl+E</dd><dt>Find</dt>
+<dd>Ctrl+F</dd><dt>Find All References</dt>
+<dd>Shift+F12</dd><dt>Findin Files</dt>
+<dd>Ctrl+Shift+F</dd><dt>Find Next</dt>
+<dd>F3</dd><dt>Find Next Selected</dt>
+<dd>Ctrl+F3</dd><dt>Find Previous</dt>
+<dd>Shift+F3</dd><dt>Find Previous Selected</dt>
+<dd>Ctrl+Shift+F3</dd><dt>Format Document</dt>
+<dd>Ctrl+K, Ctrl+D</dd><dt>Format Selection</dt>
+<dd>Ctrl+K, Ctrl+F</dd><dt>Go To</dt>
+<dd>Ctrl+G</dd><dt>Goto Brace</dt>
+<dd>Ctrl+]</dd><dt>Goto Brace Extend</dt>
+<dd>Ctrl+Shift+]</dd><dt>Go To Declaration</dt>
+<dd>Ctrl+F12</dd><dt>Go To Definition</dt>
+<dd>F12</dd><dt>Go To Find Combo</dt>
+<dd>Ctrl+D</dd><dt>Go To Next Location</dt>
+<dd>F8</dd><dt>Go To Prev Location</dt>
+<dd>Shift+F8</dd><dt>Hide Selection</dt>
+<dd>Ctrl+M, Ctrl+H</dd><dt>Increase Filter Level</dt>
+<dd>Alt+.</dd><dt>Incremental Search</dt>
+<dd>Ctrl+I</dd><dt>Indent</dt>
+<dd>Shift+Alt+Right Arrow</dd><dt>Insert Snippet</dt>
+<dd>Ctrl+K, Ctrl+X</dd><dt>Insert Tab</dt>
+<dd>Tab</dd><dt>Line Cut</dt>
+<dd>Ctrl+L</dd><dt>Line Delete</dt>
+<dd>Ctrl+Shift+L</dd><dt>Line Down</dt>
+<dd>Down Arrow</dd><dt>Line Down Extend</dt>
+<dd>Shift+Down Arrow</dd><dd>Shift+Up Arrow</dd><dt>Line Down Extend Column=
+</dt>
+<dd>Shift+Alt+Down Arrow</dd><dt>Line End</dt>
+<dd>End</dd><dt>Line End Extend</dt>
+<dd>Shift+End</dd><dt>Line End Extend Column</dt>
+<dd>Shift+Alt+End</dd><dt>Line Open Above</dt>
+<dd>Ctrl+Enter</dd><dt>Line Open Below</dt>
+<dd>Ctrl+Shift+Enter</dd><dt>Line Start</dt>
+<dd>Home</dd><dt>Line Start Extend</dt>
+<dd>Shift+Home</dd><dt>Line Start Extend Column</dt>
+<dd>Shift+Alt+Home</dd><dt>Line Transpose</dt>
+<dd>Shift+Alt+T</dd><dt>Line Up</dt>
+<dd>Up Arrow</dd><dt>Line Up Extend</dt>
+<dd>Shift+Up Arrow</dd><dd>Shift+Down Arrow</dd><dt>Line Up Extend Column</=
+dt>
+<dd>Shift+Alt+Up Arrow</dd><dt>List Members</dt>
+<dd>Ctrl+J</dd><dd>Ctrl+K, L</dd><dd>Ctrl+K, Ctrl+L</dd><dt>Make Lowercase<=
+/dt>
+<dd>Ctrl+U</dd><dt>Make Uppercase</dt>
+<dd>Ctrl+Shift+U</dd><dt>Move Control Down</dt>
+<dd>Ctrl+Down Arrow</dd><dd>Down Arrow</dd><dt>Move Control Down Grid</dt>
+<dd>Down Arrow</dd><dt>Move Control Left</dt>
+<dd>Ctrl+Left Arrow</dd><dd>Left Arrow</dd><dt>Move Control Left Grid</dt>
+<dd>Left Arrow</dd><dt>Move Control Right</dt>
+<dd>Ctrl+Right Arrow</dd><dd>Right Arrow</dd><dt>Move Control Right Grid</d=
+t>
+<dd>Right Arrow</dd><dt>Move Control Up</dt>
+<dd>Ctrl+Up Arrow</dd><dd>Up Arrow</dd><dt>Move Control Up Grid</dt>
+<dd>Up Arrow</dd><dt>Move Selected Lines Down</dt>
+<dd>Alt+Down Arrow</dd><dt>Move Selected Lines Up</dt>
+<dd>Alt+Up Arrow</dd><dt>Navigate To</dt>
+<dd>Ctrl+,</dd><dt>Navigate To Lollipop</dt>
+<dd>Shift+Alt+L</dd><dt>New Accelerator</dt>
+<dd>Ins</dd><dt>New String</dt>
+<dd>Ins</dd><dt>Next Bookmark</dt>
+<dd>Ctrl+K, Ctrl+N</dd><dt>Next Bookmark In Folder</dt>
+<dd>Ctrl+Shift+K, Ctrl+Shift+N</dd><dt>Next Highlighted Reference</dt>
+<dd>Ctrl+Shift+Down Arrow</dd><dt>Next Key Typed</dt>
+<dd>Ctrl+W</dd><dt>Open File</dt>
+<dd>Ctrl+Shift+G</dd><dt>Outdent</dt>
+<dd>Shift+Alt+Left Arrow</dd><dt>Overtype Mode</dt>
+<dd>Ins</dd><dt>Page Down</dt>
+<dd>PgDn</dd><dt>Page Down Extend</dt>
+<dd>Shift+PgDn</dd><dt>Page Up</dt>
+<dd>PgUp</dd><dt>Page Up Extend</dt>
+<dd>Shift+PgUp</dd><dt>Parameter Info</dt>
+<dd>Ctrl+Shift+Space</dd><dd>Ctrl+K, P</dd><dd>Ctrl+K, Ctrl+P</dd><dt>Paste=
+</dt>
+<dd>Ctrl+V</dd><dd>Shift+Ins</dd><dt>Paste Parameter Tip</dt>
+<dd>Ctrl+Shift+Alt+P</dd><dt>Peek Backward</dt>
+<dd>Ctrl+Alt+-</dd><dt>Peek Definition</dt>
+<dd>Alt+F12</dd><dt>Peek Forward</dt>
+<dd>Ctrl+Alt+=3D</dd><dt>Previous Bookmark</dt>
+<dd>Ctrl+K, Ctrl+P</dd><dt>Previous Bookmark In Folder</dt>
+<dd>Ctrl+Shift+K, Ctrl+Shift+P</dd><dt>Previous Highlighted Reference</dt>
+<dd>Ctrl+Shift+Up Arrow</dd><dt>Quick Find Symbol</dt>
+<dd>Shift+Alt+F12</dd><dt>Quick Info</dt>
+<dd>Ctrl+K, Ctrl+I</dd><dd>Ctrl+K, I</dd><dt>Redo</dt>
+<dd>Ctrl+Y</dd><dd>Ctrl+Shift+Z</dd><dd>Shift+Alt+Bkspce</dd><dt>Refresh Re=
+mote References</dt>
+<dd>Ctrl+Shift+J</dd><dt>Refresh Work Item</dt>
+<dd>F5</dd><dt>Remove</dt>
+<dd>Del</dd><dt>Removefrom Diagram</dt>
+<dd>Del</dd><dt>Remove Row</dt>
+<dd>Ctrl+Del</dd><dt>Replace</dt>
+<dd>Ctrl+H</dd><dt>Replacein Files</dt>
+<dd>Ctrl+Shift+H</dd><dt>Reverse Incremental Search</dt>
+<dd>Ctrl+Shift+I</dd><dt>Scroll Column Left</dt>
+<dd>Ctrl+Left Arrow</dd><dt>Scroll Column Right</dt>
+<dd>Ctrl+Right Arrow</dd><dt>Scroll Line Down</dt>
+<dd>Ctrl+Down Arrow</dd><dt>Scroll Line Up</dt>
+<dd>Ctrl+Up Arrow</dd><dt>Select All</dt>
+<dd>Ctrl+A</dd><dt>Select Current Word</dt>
+<dd>Ctrl+W</dd><dt>Selection Cancel</dt>
+<dd>Esc</dd><dt>Select Next Control</dt>
+<dd>Tab</dd><dt>Select Previous Control</dt>
+<dd>Shift+Tab</dd><dt>Select To Last Go Back</dt>
+<dd>Ctrl+=3D</dd><dt>Show Code Lens Menu</dt>
+<dd>Alt+`</dd><dt>Show Tile Grid</dt>
+<dd>Enter</dd><dt>Size Control Down</dt>
+<dd>Ctrl+Shift+Down Arrow</dd><dd>Shift+Down Arrow</dd><dt>Size Control Dow=
+n Grid</dt>
+<dd>Shift+Down Arrow</dd><dt>Size Control Left</dt>
+<dd>Ctrl+Shift+Left Arrow</dd><dd>Shift+Left Arrow</dd><dt>Size Control Lef=
+t Grid</dt>
+<dd>Shift+Left Arrow</dd><dt>Size Control Right</dt>
+<dd>Ctrl+Shift+Right Arrow</dd><dd>Shift+Right Arrow</dd><dt>Size Control R=
+ight Grid</dt>
+<dd>Shift+Right Arrow</dd><dt>Size Control Up</dt>
+<dd>Ctrl+Shift+Up Arrow</dd><dd>Shift+Up Arrow</dd><dt>Size Control Up Grid=
+</dt>
+<dd>Shift+Up Arrow</dd><dt>Smart Break Line</dt>
+<dd>Shift+Enter</dd><dt>Stop Hiding Current</dt>
+<dd>Ctrl+M, Ctrl+U</dd><dt>Stop Outlining</dt>
+<dd>Ctrl+M, Ctrl+P</dd><dt>Stop Search</dt>
+<dd>Alt+F3, S</dd><dt>Surround With</dt>
+<dd>Ctrl+K, Ctrl+S</dd><dt>Swap Anchor</dt>
+<dd>Ctrl+K, Ctrl+A</dd><dt>Tab Left</dt>
+<dd>Shift+Tab</dd><dt>Toggle All Outlining</dt>
+<dd>Ctrl+M, Ctrl+L</dd><dt>Toggle Bookmark</dt>
+<dd>Ctrl+K, Ctrl+K</dd><dt>Toggle Completion Mode</dt>
+<dd>Ctrl+Alt+Space</dd><dt>Toggle Outlining Expansion</dt>
+<dd>Ctrl+M, Ctrl+M</dd><dt>Toggle Task List Shortcut</dt>
+<dd>Ctrl+K, Ctrl+H</dd><dt>Toggle Word Wrap</dt>
+<dd>Ctrl+E, Ctrl+W</dd><dt>Uncomment Selection</dt>
+<dd>Ctrl+K, Ctrl+U</dd><dt>Undo</dt>
+<dd>Ctrl+Z</dd><dd>Alt+Bkspce</dd><dt>View Bottom</dt>
+<dd>Ctrl+PgDn</dd><dt>View Bottom Extend</dt>
+<dd>Ctrl+Shift+PgDn</dd><dt>View Top</dt>
+<dd>Ctrl+PgUp</dd><dt>View Top Extend</dt>
+<dd>Ctrl+Shift+PgUp</dd><dt>View White Space</dt>
+<dd>Ctrl+R, Ctrl+W</dd><dt>Word Delete To End</dt>
+<dd>Ctrl+Del</dd><dt>Word Delete To Start</dt>
+<dd>Ctrl+Bkspce</dd><dt>Word Next</dt>
+<dd>Ctrl+Right Arrow</dd><dt>Word Next Extend</dt>
+<dd>Ctrl+Shift+Right Arrow</dd><dt>Word Next Extend Column</dt>
+<dd>Ctrl+Shift+Alt+Right Arrow</dd><dt>Word Previous</dt>
+<dd>Ctrl+Left Arrow</dd><dt>Word Previous Extend</dt>
+<dd>Ctrl+Shift+Left Arrow</dd><dt>Word Previous Extend Column</dt>
+<dd>Ctrl+Shift+Alt+Left Arrow</dd><dt>Word Transpose</dt>
+<dd>Ctrl+Shift+T</dd></dl>
+</article>
+<article>
+<h3>Editor Context Menus</h3>
+<dl>
+<dt>Add Comment</dt>
+<dd>Ctrl+Shift+K</dd><dt>Breakpoint Editlabels</dt>
+<dd>Alt+F9, L</dd><dt>Breakpoint Settings</dt>
+<dd>Alt+F9, C</dd><dt>Show Item</dt>
+<dd>Ctrl+`</dd><dt>Edit Local File</dt>
+<dd>Ctrl+Shift+P</dd><dt>Execute</dt>
+<dd>Ctrl+Alt+F5</dd><dt>Execute In Interactive</dt>
+<dd>Alt+Enter</dd><dt>Execute Line In Interactive</dt>
+<dd>Alt+'</dd><dt>Go To View</dt>
+<dd>Ctrl+M, Ctrl+G</dd><dt>Toggle Header Code File</dt>
+<dd>Ctrl+K, Ctrl+O</dd><dt>View Call Hierarchy</dt>
+<dd>Ctrl+K, Ctrl+T</dd><dd>Ctrl+K, T</dd></dl>
+</article>
+<article>
+<h3>File</h3>
+<dl>
+<dt>Exit</dt>
+<dd>Alt+F4</dd><dt>New File</dt>
+<dd>Ctrl+N</dd><dt>New Project</dt>
+<dd>Ctrl+Shift+N</dd><dt>New Web Site</dt>
+<dd>Shift+Alt+N</dd><dt>Open File</dt>
+<dd>Ctrl+O</dd><dt>Open Project</dt>
+<dd>Ctrl+Shift+O</dd><dt>Open Web Site</dt>
+<dd>Shift+Alt+O</dd><dt>Print</dt>
+<dd>Ctrl+P</dd><dt>Rename</dt>
+<dd>F2</dd><dt>Save All</dt>
+<dd>Ctrl+Shift+S</dd><dt>Save Selected Items</dt>
+<dd>Ctrl+S</dd><dt>Viewin Browser</dt>
+<dd>Ctrl+Shift+W</dd></dl>
+</article>
+<article>
+<h3>Format</h3>
+<dl>
+<dt>Align Bottoms</dt>
+<dd>Ctrl+Shift+Down Arrow</dd><dt>Align Centers</dt>
+<dd>Shift+F9</dd><dt>Align Lefts</dt>
+<dd>Ctrl+Shift+Left Arrow</dd><dt>Align Middles</dt>
+<dd>F9</dd><dt>Align Rights</dt>
+<dd>Ctrl+Shift+Right Arrow</dd><dt>Align Tops</dt>
+<dd>Ctrl+Shift+Up Arrow</dd><dt>Bold</dt>
+<dd>Ctrl+B</dd><dt>Button Bottom</dt>
+<dd>Ctrl+B</dd><dt>Button Right</dt>
+<dd>Ctrl+R</dd><dt>Center Horizontal</dt>
+<dd>Ctrl+Shift+F9</dd><dt>Center Vertical</dt>
+<dd>Ctrl+F9</dd><dt>Check Mnemonics</dt>
+<dd>Ctrl+M</dd><dt>Convertto Hyperlink</dt>
+<dd>Ctrl+L</dd><dt>Edit Text</dt>
+<dd>F2</dd><dt>Insert Bookmark</dt>
+<dd>Ctrl+Shift+L</dd><dt>Italic</dt>
+<dd>Ctrl+I</dd><dt>Reset All</dt>
+<dd>Ctrl+Shift+R</dd><dt>Sizeto Content</dt>
+<dd>Shift+F7</dd><dt>Space Across</dt>
+<dd>Alt+Right Arrow</dd><dd>Alt+Left Arrow</dd><dt>Space Down</dt>
+<dd>Alt+Up Arrow</dd><dd>Alt+Down Arrow</dd><dt>Tab Order</dt>
+<dd>Ctrl+D</dd><dt>Test Dialog</dt>
+<dd>Ctrl+T</dd><dt>Toggle Guides</dt>
+<dd>Ctrl+G</dd><dt>Underline</dt>
+<dd>Ctrl+U</dd></dl>
+</article>
+<article>
+<h3>Graph View</h3>
+<dl>
+<dt>Bottomto Top</dt>
+<dd>Alt+Up Arrow</dd><dt>Leftto Right</dt>
+<dd>Alt+Right Arrow</dd><dt>Rightto Left</dt>
+<dd>Alt+Left Arrow</dd><dt>Topto Bottom</dt>
+<dd>Alt+Down Arrow</dd></dl>
+</article>
+<article>
+<h3>Help</h3>
+<dl>
+<dt>Addand Remove Help Content</dt>
+<dd>Ctrl+Alt+F1</dd><dt>F1 Help</dt>
+<dd>F1</dd><dt>View Help</dt>
+<dd>Ctrl+F1</dd><dt>Window Help</dt>
+<dd>Shift+F1</dd></dl>
+</article>
+<article>
+<h3>Image</h3>
+<dl>
+<dt>Airbrush Tool</dt>
+<dd>Ctrl+A</dd><dt>Brush Tool</dt>
+<dd>Ctrl+B</dd><dt>Copyand Outline Selection</dt>
+<dd>Ctrl+Shift+U</dd><dt>Draw Opaque</dt>
+<dd>Ctrl+J</dd><dt>Ellipse Tool</dt>
+<dd>Alt+P</dd><dt>Erase Tool</dt>
+<dd>Ctrl+Shift+I</dd><dt>Filled Ellipse Tool</dt>
+<dd>Ctrl+Shift+Alt+P</dd><dt>Filled Rectangle Tool</dt>
+<dd>Ctrl+Shift+Alt+R</dd><dt>Filled Rounded Rectangle Tool</dt>
+<dd>Ctrl+Shift+Alt+W</dd><dt>Fill Tool</dt>
+<dd>Ctrl+F</dd><dt>Flip Horizontal</dt>
+<dd>Ctrl+H</dd><dt>Flip Vertical</dt>
+<dd>Shift+Alt+H</dd><dt>Larger Brush</dt>
+<dd>Ctrl+=3D</dd><dt>Line Tool</dt>
+<dd>Ctrl+L</dd><dt>Magnification Tool</dt>
+<dd>Ctrl+M</dd><dt>Magnify</dt>
+<dd>Ctrl+Shift+M</dd><dt>New Image Type</dt>
+<dd>Ins</dd><dt>Next Color</dt>
+<dd>Ctrl+]</dd><dd>Ctrl+Right Arrow</dd><dt>Next Right Color</dt>
+<dd>Ctrl+Shift+]</dd><dd>Ctrl+Shift+Right Arrow</dd><dt>Outlined Ellipse To=
+ol</dt>
+<dd>Shift+Alt+P</dd><dt>Outlined Rectangle Tool</dt>
+<dd>Shift+Alt+R</dd><dt>Outlined Rounded Rectangle Tool</dt>
+<dd>Shift+Alt+W</dd><dt>Pencil Tool</dt>
+<dd>Ctrl+I</dd><dt>Previous Color</dt>
+<dd>Ctrl+[</dd><dd>Ctrl+Left Arrow</dd><dt>Previous Right Color</dt>
+<dd>Ctrl+Shift+[</dd><dd>Ctrl+Shift+Left Arrow</dd><dt>Rectangle Selection =
+Tool</dt>
+<dd>Shift+Alt+S</dd><dt>Rectangle Tool</dt>
+<dd>Alt+R</dd><dt>Rotate90 Degrees</dt>
+<dd>Ctrl+Shift+H</dd><dt>Rounded Rectangle Tool</dt>
+<dd>Alt+W</dd><dt>Show Grid</dt>
+<dd>Ctrl+Alt+S</dd><dt>Show Tile Grid</dt>
+<dd>Ctrl+Shift+Alt+S</dd><dt>Small Brush</dt>
+<dd>Ctrl+.</dd><dt>Smaller Brush</dt>
+<dd>Ctrl+-</dd><dt>Text Tool</dt>
+<dd>Ctrl+T</dd><dt>Use Selectionas Brush</dt>
+<dd>Ctrl+U</dd><dt>Zoom In</dt>
+<dd>Ctrl+Shift+.</dd><dd>Ctrl+Up Arrow</dd><dt>Zoom Out</dt>
+<dd>Ctrl+Shift+,</dd><dd>Ctrl+Down Arrow</dd></dl>
+</article>
+<article>
+<h3>Load Test</h3>
+<dl>
+<dt>Jump To Counter Pane</dt>
+<dd>Ctrl+R, Q</dd></dl>
+</article>
+<article>
+<h3>Microsoft Azure</h3>
+<dl>
+<dt>Retry Mobile Service Script Operation</dt>
+<dd>Ctrl+Num *, Ctrl+R</dd><dt>Show Mobile Service Script Error Details</dt=
+>
+<dd>Ctrl+Num *, Ctrl+D</dd></dl>
+</article>
+<article>
+<h3>Other Context Menus</h3>
+<dl>
+<dt>Refresh Linked Browsers</dt>
+<dd>Ctrl+Alt+Enter</dd><dt>Insert Column</dt>
+<dd>Ins</dd><dt>Column</dt>
+<dd>Ctrl+L</dd><dt>Cancel Interactive Evaluation</dt>
+<dd>Ctrl+Break</dd><dt>Reset Interactive Session</dt>
+<dd>Ctrl+Alt+R</dd><dt>Removefrom Workspace</dt>
+<dd>Del</dd><dt>Go To Controller</dt>
+<dd>Ctrl+M, Ctrl+G</dd><dt>Reload Schemas</dt>
+<dd>Ctrl+Shift+J</dd><dt>Add New Diagram</dt>
+<dd>Ins</dd><dt>Down</dt>
+<dd>Alt+Down Arrow</dd><dt>Down5</dt>
+<dd>Alt+PgDn</dd><dt>To Bottom</dt>
+<dd>Alt+End</dd><dt>To Top</dt>
+<dd>Alt+Home</dd><dt>Up</dt>
+<dd>Alt+Up Arrow</dd><dt>Up5</dt>
+<dd>Alt+PgUp</dd><dt>Rename</dt>
+<dd>Ctrl+R, R</dd><dt>Removefrom Diagram</dt>
+<dd>Shift+Del</dd><dt>Hide Methods Pane</dt>
+<dd>Ctrl+1</dd><dt>Copy Referenceto Clipboard</dt>
+<dd>Ctrl+C</dd><dt>Insert Delay Before</dt>
+<dd>Ctrl+Alt+D</dd><dt>Locate All</dt>
+<dd>Shift+Alt+L</dd><dt>Locatethe UIControl</dt>
+<dd>Ctrl+Shift+L</dd><dt>Movecode</dt>
+<dd>Ctrl+Alt+C</dd><dt>Splitintoanewmethod</dt>
+<dd>Ctrl+Shift+T</dd></dl>
+</article>
+<article>
+<h3>Project</h3>
+<dl>
+<dt>Add Content Page</dt>
+<dd>Ctrl+M, Ctrl+C</dd><dt>Add Existing Item</dt>
+<dd>Shift+Alt+A</dd><dt>Add New Item</dt>
+<dd>Ctrl+Shift+A</dd><dt>Class Wizard</dt>
+<dd>Ctrl+Shift+X</dd><dt>Override</dt>
+<dd>Ctrl+Alt+Ins</dd><dt>Previewchanges</dt>
+<dd>Alt+;, Alt+C</dd><dt>Publishselectedfiles</dt>
+<dd>Alt+;, Alt+P</dd><dt>Replaceselectedfilesfromserver</dt>
+<dd>Alt+;, Alt+R</dd></dl>
+</article>
+<article>
+<h3>Projectand Solution Context Menus</h3>
+<dl>
+<dt>Move Down</dt>
+<dd>Alt+Down Arrow</dd><dt>Move Up</dt>
+<dd>Alt+Up Arrow</dd></dl>
+</article>
+<article>
+<h3>Query Designer</h3>
+<dl>
+<dt>Cancel Retrieving Data</dt>
+<dd>Ctrl+T</dd><dt>Criteria</dt>
+<dd>Ctrl+2</dd><dt>Diagram</dt>
+<dd>Ctrl+1</dd><dt>Execute SQL</dt>
+<dd>Ctrl+R</dd><dt>Goto Row</dt>
+<dd>Ctrl+G</dd><dt>Join Mode</dt>
+<dd>Ctrl+Shift+J</dd><dt>Results</dt>
+<dd>Ctrl+4</dd><dt>SQL</dt>
+<dd>Ctrl+3</dd></dl>
+</article>
+<article>
+<h3>Refactor</h3>
+<dl>
+<dt>Encapsulate Field</dt>
+<dd>Ctrl+R, Ctrl+E</dd><dt>Extract Interface</dt>
+<dd>Ctrl+R, Ctrl+I</dd><dt>Extract Method</dt>
+<dd>Ctrl+R, Ctrl+M</dd><dt>Remove Parameters</dt>
+<dd>Ctrl+R, Ctrl+V</dd><dt>Rename</dt>
+<dd>Ctrl+R, Ctrl+R</dd><dt>Reorder Parameters</dt>
+<dd>Ctrl+R, Ctrl+O</dd></dl>
+</article>
+<article>
+<h3>Resources</h3>
+<dl>
+<dt>Audio</dt>
+<dd>Ctrl+4</dd><dt>Files</dt>
+<dd>Ctrl+5</dd><dt>Icons</dt>
+<dd>Ctrl+3</dd><dt>Images</dt>
+<dd>Ctrl+2</dd><dt>Other</dt>
+<dd>Ctrl+6</dd><dt>Strings</dt>
+<dd>Ctrl+1</dd></dl>
+</article>
+<article>
+<h3>Solution Explorer</h3>
+<dl>
+<dt>Open Files Filter</dt>
+<dd>Ctrl+[, O</dd><dd>Ctrl+[, Ctrl+O</dd><dt>Pending Changes Filter</dt>
+<dd>Ctrl+[, P</dd><dd>Ctrl+[, Ctrl+P</dd><dt>Sync With Active Document</dt>
+<dd>Ctrl+[, S</dd><dd>Ctrl+[, Ctrl+S</dd></dl>
+</article>
+<article>
+<h3>SQL</h3>
+<dl>
+<dt>Execute With Debugger</dt>
+<dd>Alt+F5</dd><dt>Expand Wildcards</dt>
+<dd>Ctrl+R, E</dd><dd>Ctrl+R, Ctrl+E</dd><dt>Fullyqualify Names</dt>
+<dd>Ctrl+R, Q</dd><dd>Ctrl+R, Ctrl+Q</dd><dt>Moveto Schema</dt>
+<dd>Ctrl+R, M</dd><dd>Ctrl+R, Ctrl+M</dd><dt>Query Results New Row</dt>
+<dd>Alt+End</dd><dt>Query Results Refresh</dt>
+<dd>Shift+Alt+R</dd><dt>Query Results Stop</dt>
+<dd>Alt+Break</dd><dt>Rename</dt>
+<dd>Ctrl+R, R</dd><dd>F2</dd><dd>Ctrl+R, Ctrl+R</dd><dt>SSDTSchema Compare =
+Compare</dt>
+<dd>Shift+Alt+C</dd><dt>SSDTSchema Compare Generate Script</dt>
+<dd>Shift+Alt+G</dd><dt>SSDTSchema Compare Next Change</dt>
+<dd>Shift+Alt+.</dd><dt>SSDTSchema Compare Previous Change</dt>
+<dd>Shift+Alt+,</dd><dt>SSDTSchema Compare Stop</dt>
+<dd>Alt+Break</dd><dt>SSDTSchema Compare Write Updates</dt>
+<dd>Shift+Alt+U</dd><dt>TSql Editor Cancel Query</dt>
+<dd>Alt+Break</dd><dt>TSql Editor Execute Query</dt>
+<dd>Ctrl+Shift+E</dd><dt>TSql Editor Results As File</dt>
+<dd>Ctrl+D, F</dd><dt>TSql Editor Results As Grid</dt>
+<dd>Ctrl+D, G</dd><dt>TSql Editor Results As Text</dt>
+<dd>Ctrl+D, T</dd><dt>TSql Editor Show Estimated Plan</dt>
+<dd>Ctrl+D, E</dd><dt>TSql Editor Toggle Execution Plan</dt>
+<dd>Ctrl+D, A</dd><dt>TSql Editor Toggle Results Pane</dt>
+<dd>Ctrl+D, R</dd></dl>
+</article>
+<article>
+<h3>Table</h3>
+<dl>
+<dt>Columntothe Left</dt>
+<dd>Ctrl+Alt+Left Arrow</dd><dt>Columntothe Right</dt>
+<dd>Ctrl+Alt+Right Arrow</dd><dt>Row Above</dt>
+<dd>Ctrl+Alt+Up Arrow</dd><dt>Row Below</dt>
+<dd>Ctrl+Alt+Down Arrow</dd></dl>
+</article>
+<article>
+<h3>Team</h3>
+<dl>
+<dt>Go To Git Active Repositories</dt>
+<dd>Ctrl+0, Ctrl+E</dd><dd>Ctrl+0, E</dd><dt>Go To Git Changes</dt>
+<dd>Ctrl+0, Ctrl+G</dd><dd>Ctrl+0, G</dd><dt>Go To Git Synchronization</dt>
+<dd>Ctrl+0, Ctrl+Y</dd><dd>Ctrl+0, Y</dd><dt>Goto Next Work Item</dt>
+<dd>Shift+Alt+N</dd><dt>Goto Previous Work Item</dt>
+<dd>Shift+Alt+P</dd><dt>New Linked Work Item</dt>
+<dd>Shift+Alt+L</dd><dt>Refresh</dt>
+<dd>F5</dd><dt>Team Explorer Search</dt>
+<dd>Ctrl+'</dd></dl>
+</article>
+<article>
+<h3>Team Foundation Context Menus</h3>
+<dl>
+<dt>Tfs Annotate Move Next Region</dt>
+<dd>Alt+PgDn</dd><dt>Tfs Annotate Move Previous Region</dt>
+<dd>Alt+PgUp</dd><dt>Go To Builds</dt>
+<dd>Ctrl+0, Ctrl+B</dd><dd>Ctrl+0, B</dd><dt>Go To Connect</dt>
+<dd>Ctrl+0, Ctrl+C</dd><dd>Ctrl+0, C</dd><dt>Go To Documents</dt>
+<dd>Ctrl+0, Ctrl+D</dd><dd>Ctrl+0, D</dd><dt>Go To Home</dt>
+<dd>Ctrl+0, Ctrl+H</dd><dd>Ctrl+0, H</dd><dt>Go To My Work</dt>
+<dd>Ctrl+0, Ctrl+M</dd><dd>Ctrl+0, M</dd><dt>Go To Pending Changes</dt>
+<dd>Ctrl+0, Ctrl+P</dd><dd>Ctrl+0, P</dd><dt>Go To Reports</dt>
+<dd>Ctrl+0, Ctrl+R</dd><dd>Ctrl+0, R</dd><dt>Go To Settings</dt>
+<dd>Ctrl+0, Ctrl+S</dd><dd>Ctrl+0, S</dd><dt>Go To Team Explorer Navigation=
+</dt>
+<dd>Alt+Home</dd><dt>Go To Team Explorer Next Section Content</dt>
+<dd>Alt+Down Arrow</dd><dt>Go To Team Explorer Page Content</dt>
+<dd>Alt+0</dd><dt>Go To Team Explorer Previous Section Content</dt>
+<dd>Alt+Up Arrow</dd><dt>Go To Team Explorer Section1 Content</dt>
+<dd>Alt+1</dd><dt>Go To Team Explorer Section2 Content</dt>
+<dd>Alt+2</dd><dt>Go To Team Explorer Section3 Content</dt>
+<dd>Alt+3</dd><dt>Go To Team Explorer Section4 Content</dt>
+<dd>Alt+4</dd><dt>Go To Team Explorer Section5 Content</dt>
+<dd>Alt+5</dd><dt>Go To Team Explorer Section6 Content</dt>
+<dd>Alt+6</dd><dt>Go To Team Explorer Section7 Content</dt>
+<dd>Alt+7</dd><dt>Go To Team Explorer Section8 Content</dt>
+<dd>Alt+8</dd><dt>Go To Team Explorer Section9 Content</dt>
+<dd>Alt+9</dd><dt>Go To Web Access</dt>
+<dd>Ctrl+0, Ctrl+A</dd><dd>Ctrl+0, A</dd><dt>Go To Work Items</dt>
+<dd>Ctrl+0, Ctrl+W</dd><dd>Ctrl+0, W</dd><dt>Team Explorer Navigate Backwar=
+d</dt>
+<dd>Alt+Left Arrow</dd><dt>Team Explorer Navigate Forward</dt>
+<dd>Alt+Right Arrow</dd><dt>Set Focuson Left Window</dt>
+<dd>Alt+1</dd><dt>Set Focuson Result Window</dt>
+<dd>Alt+2</dd><dt>Set Focuson Right Window</dt>
+<dd>Alt+3</dd><dt>Tfs Context My Work Page Create Copy WI</dt>
+<dd>Shift+Alt+C</dd><dt>Tfs Context My Work Page New Linked WI</dt>
+<dd>Shift+Alt+L</dd></dl>
+</article>
+<article>
+<h3>Test</h3>
+<dl>
+<dt>Use Coded UITest Builder</dt>
+<dd>Ctrl+\, Ctrl+C</dd><dt>Use Existing Action Recording</dt>
+<dd>Ctrl+\, Ctrl+A</dd></dl>
+</article>
+<article>
+<h3>Test Explorer</h3>
+<dl>
+<dt>Debug All Tests</dt>
+<dd>Ctrl+R, Ctrl+A</dd><dt>Debug All Tests In Context</dt>
+<dd>Ctrl+R, Ctrl+T</dd><dt>Open Test</dt>
+<dd>F12</dd><dt>Repeat Last Run</dt>
+<dd>Ctrl+R, L</dd><dt>Run All Tests</dt>
+<dd>Ctrl+R, A</dd><dt>Run All Tests In Context</dt>
+<dd>Ctrl+R, T</dd></dl>
+</article>
+<article>
+<h3>Tools</h3>
+<dl>
+<dt>Code Snippets Manager</dt>
+<dd>Ctrl+K, Ctrl+B</dd><dt>Force GC</dt>
+<dd>Ctrl+Shift+Alt+F12, Ctrl+Shift+Alt+F12</dd><dt>Go To Command Line</dt>
+<dd>Ctrl+/</dd></dl>
+</article>
+<article>
+<h3>View</h3>
+<dl>
+<dt>All Windows</dt>
+<dd>Shift+Alt+M</dd><dt>NETNonvisual Controls</dt>
+<dd>Ctrl+Shift+N</dd><dt>Backward</dt>
+<dd>Alt+Left Arrow</dd><dt>Bookmark Window</dt>
+<dd>Ctrl+K, Ctrl+W</dd><dt>Browse Next</dt>
+<dd>Ctrl+Shift+1</dd><dt>Browse Previous</dt>
+<dd>Ctrl+Shift+2</dd><dt>Call Hierarchy</dt>
+<dd>Ctrl+Alt+K</dd><dt>Class View</dt>
+<dd>Ctrl+Shift+C</dd><dt>Class View Go To Search Combo</dt>
+<dd>Ctrl+K, Ctrl+V</dd><dt>Code Definition Window</dt>
+<dd>Ctrl+\, D</dd><dd>Ctrl+\, Ctrl+D</dd><dt>Command Window</dt>
+<dd>Ctrl+Alt+A</dd><dt>Data Sources</dt>
+<dd>Shift+Alt+D</dd><dt>Document Outline</dt>
+<dd>Ctrl+Alt+T</dd><dt>Edit Label</dt>
+<dd>F2</dd><dt>Edit Master</dt>
+<dd>Ctrl+M, Ctrl+M</dd><dt>Entity Data Model Browser</dt>
+<dd>Ctrl+1</dd><dt>Entity Data Model Mapping Details</dt>
+<dd>Ctrl+2</dd><dt>Error List</dt>
+<dd>Ctrl+\, E</dd><dd>Ctrl+\, Ctrl+E</dd><dt>F# Interactive</dt>
+<dd>Ctrl+Alt+F</dd><dt>Find Symbol Results</dt>
+<dd>Ctrl+Alt+F12</dd><dt>Forward</dt>
+<dd>Alt+Right Arrow</dd><dt>Forward Browse Context</dt>
+<dd>Ctrl+Shift+7</dd><dt>Full Screen</dt>
+<dd>Shift+Alt+Enter</dd><dt>Navigate Backward</dt>
+<dd>Ctrl+-</dd><dt>Navigate Forward</dt>
+<dd>Ctrl+Shift+-</dd><dt>Next Error</dt>
+<dd>Ctrl+Shift+F12</dd><dt>Next View</dt>
+<dd>Ctrl+PgDn</dd><dt>Notifications</dt>
+<dd>Ctrl+W, N</dd><dd>Ctrl+W, Ctrl+N</dd><dt>Object Browser</dt>
+<dd>Ctrl+Alt+J</dd><dt>Object Browser Go To Search Combo</dt>
+<dd>Ctrl+K, Ctrl+R</dd><dt>Output</dt>
+<dd>Ctrl+Alt+O</dd><dt>Pop Browse Context</dt>
+<dd>Ctrl+Shift+8</dd><dt>Properties Window</dt>
+<dd>F4</dd><dt>Property Pages</dt>
+<dd>Shift+F4</dd><dt>Quick Actions</dt>
+<dd>Ctrl+.</dd><dt>Refresh</dt>
+<dd>F5</dd><dt>Resource View</dt>
+<dd>Ctrl+Shift+E</dd><dt>Server Explorer</dt>
+<dd>Ctrl+Alt+S</dd><dt>Show Smart Tag</dt>
+<dd>Shift+Alt+F10</dd><dd>Ctrl+.</dd><dt>Solution Explorer</dt>
+<dd>Ctrl+Alt+L</dd><dt>SQLServer Object Explorer</dt>
+<dd>Ctrl+\, Ctrl+S</dd><dt>Synchronize Views</dt>
+<dd>Ctrl+Shift+Y</dd><dt>Task List</dt>
+<dd>Ctrl+\, T</dd><dd>Ctrl+\, Ctrl+T</dd><dt>Tfs Team Explorer</dt>
+<dd>Ctrl+\, Ctrl+M</dd><dt>Toolbox</dt>
+<dd>Ctrl+Alt+X</dd><dt>UMLModel Explorer</dt>
+<dd>Ctrl+\, Ctrl+U</dd><dt>View Code</dt>
+<dd>Enter</dd><dd>F7</dd><dt>View Designer</dt>
+<dd>Shift+F7</dd><dt>View Markup</dt>
+<dd>Shift+F7</dd><dt>Web Browser</dt>
+<dd>Ctrl+Alt+R</dd><dt>Zoom In</dt>
+<dd>Ctrl+Shift+.</dd><dt>Zoom Out</dt>
+<dd>Ctrl+Shift+,</dd></dl>
+</article>
+<article>
+<h3>Window</h3>
+<dl>
+<dt>Activate Document Window</dt>
+<dd>Esc</dd><dt>Activate Quick Launch</dt>
+<dd>Ctrl+Q</dd><dt>Activate Quick Launch Previous Category</dt>
+<dd>Ctrl+Shift+Q</dd><dt>Activate Solution Explorer Search</dt>
+<dd>Ctrl+;</dd><dt>Activate Window Search</dt>
+<dd>Alt+`</dd><dt>Add Tabto Selection</dt>
+<dd>Ctrl+Shift+Alt+Space</dd><dt>Apply Window Layout1</dt>
+<dd>Ctrl+Alt+1</dd><dt>Apply Window Layout10</dt>
+<dd>Ctrl+Alt+0</dd><dt>Apply Window Layout2</dt>
+<dd>Ctrl+Alt+2</dd><dt>Apply Window Layout3</dt>
+<dd>Ctrl+Alt+3</dd><dt>Apply Window Layout4</dt>
+<dd>Ctrl+Alt+4</dd><dt>Apply Window Layout5</dt>
+<dd>Ctrl+Alt+5</dd><dt>Apply Window Layout6</dt>
+<dd>Ctrl+Alt+6</dd><dt>Apply Window Layout7</dt>
+<dd>Ctrl+Alt+7</dd><dt>Apply Window Layout8</dt>
+<dd>Ctrl+Alt+8</dd><dt>Apply Window Layout9</dt>
+<dd>Ctrl+Alt+9</dd><dt>Close Document Window</dt>
+<dd>Ctrl+F4</dd><dt>Close Tool Window</dt>
+<dd>Shift+Esc</dd><dt>Keep Tab Open</dt>
+<dd>Ctrl+Alt+Home</dd><dt>Moveto Navigation Bar</dt>
+<dd>Ctrl+F2</dd><dt>Next Document Window</dt>
+<dd>Ctrl+F6</dd><dt>Next Document Window Nav</dt>
+<dd>Ctrl+Tab</dd><dt>Next Pane</dt>
+<dd>Alt+F6</dd><dt>Next Split Pane</dt>
+<dd>F6</dd><dt>Next Tab</dt>
+<dd>Ctrl+Alt+PgDn</dd><dd>Ctrl+PgDn</dd><dt>Next Taband Addto Selection</dt=
+>
+<dd>Ctrl+Shift+Alt+PgDn</dd><dt>Next Tool Window Nav</dt>
+<dd>Alt+F7</dd><dt>Previous Document Window</dt>
+<dd>Ctrl+Shift+F6</dd><dt>Previous Document Window Nav</dt>
+<dd>Ctrl+Shift+Tab</dd><dt>Previous Pane</dt>
+<dd>Shift+Alt+F6</dd><dt>Previous Split Pane</dt>
+<dd>Shift+F6</dd><dt>Previous Tab</dt>
+<dd>Ctrl+Alt+PgUp</dd><dd>Ctrl+PgUp</dd><dt>Previous Taband Addto Selection=
+</dt>
+<dd>Ctrl+Shift+Alt+PgUp</dd><dt>Previous Tool Window Nav</dt>
+<dd>Shift+Alt+F7</dd><dt>Show Dock Menu</dt>
+<dd>Alt+-</dd><dt>Show Ez MDIFile List</dt>
+<dd>Ctrl+Alt+Down Arrow</dd><dt>Toggle</dt>
+<dd>Shift+Alt+V</dd></dl>
+</article>
+<article>
+<h3>Workflow Designer</h3>
+<dl>
+<dt>Collapse</dt>
+<dd>Ctrl+E, Ctrl+C</dd><dd>Ctrl+E, C</dd><dt>Collapse All</dt>
+<dd>Ctrl+E, Ctrl+Y</dd><dd>Ctrl+E, Y</dd><dt>Connect Nodes</dt>
+<dd>Ctrl+E, Ctrl+F</dd><dd>Ctrl+E, F</dd><dt>Create Variable</dt>
+<dd>Ctrl+E, Ctrl+N</dd><dd>Ctrl+E, N</dd><dt>Expand All</dt>
+<dd>Ctrl+E, Ctrl+X</dd><dd>Ctrl+E, X</dd><dt>Expand In Place</dt>
+<dd>Ctrl+E, Ctrl+E</dd><dd>Ctrl+E, E</dd><dt>Go To Parent</dt>
+<dd>Ctrl+E, Ctrl+P</dd><dd>Ctrl+E, P</dd><dt>Move Focus</dt>
+<dd>Ctrl+E, Ctrl+M</dd><dd>Ctrl+E, M</dd><dt>Navigate Through Designer</dt>
+<dd>Ctrl+Alt+F6</dd><dt>Restore</dt>
+<dd>Ctrl+E, Ctrl+R</dd><dd>Ctrl+E, R</dd><dt>Show Hide Argument Designer</d=
+t>
+<dd>Ctrl+E, Ctrl+A</dd><dd>Ctrl+E, A</dd><dt>Show Hide Imports Designer</dt=
+>
+<dd>Ctrl+E, Ctrl+I</dd><dd>Ctrl+E, I</dd><dt>Show Hide Overview Map</dt>
+<dd>Ctrl+E, Ctrl+O</dd><dd>Ctrl+E, O</dd><dt>Show Hide Variable Designer</d=
+t>
+<dd>Ctrl+E, Ctrl+V</dd><dd>Ctrl+E, V</dd><dt>Toggle Selection</dt>
+<dd>Ctrl+E, Ctrl+S</dd><dd>Ctrl+E, S</dd><dt>Zoom In</dt>
+<dd>Ctrl+Num +</dd><dt>Zoom Out</dt>
+<dd>Ctrl+Num -</dd></dl>
+</article>
+<article>
+<h3>XML</h3>
+<dl>
+<dt>Start XSLTDebugging</dt>
+<dd>Alt+F5</dd><dt>Start XSLTWithout Debugging</dt>
+<dd>Ctrl+Alt+F5</dd></dl>
+</article>
+<article>
+<h3>Xsd Designer</h3>
+<dl>
+<dt>Show Content Model View</dt>
+<dd>Ctrl+2</dd><dt>Show Graph View</dt>
+<dd>Ctrl+3</dd><dt>Show Start View</dt>
+<dd>Ctrl+1</dd></dl>
+</article>
+
+	</section>
+
+	<aside>
+		<a href=3D"https://github.com/madskristensen/shortcutExporter">Fork me on=
+ GitHub</a>
+	</aside>
+
+	<footer role=3D"contentinfo">
+		<p>712 shortcuts in total</p>
+		<p>Get the <a href=3D"http://visualstudiogallery.msdn.microsoft.com/6ce3b=
+73c-2284-4b95-b61d-6de74aa8dfe6">Visual Studio extension</a></p>
+		<p>
+			Copyright =C2=A9 2013 - 2018
+			<a href=3D"http://madskristensen.net/" rel=3D"me author publisher">Mads =
+Kristensen</a>
+		</p>
+	</footer>
+
+=09
+
+
+
+</body></html>
+------MultipartBoundary--gkyEr0YLTVJtMDoU5bEO9342wrmZ1wUoleK7f3CFMX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://visualstudioshortcuts.com/css/github.png
+
+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
+------MultipartBoundary--gkyEr0YLTVJtMDoU5bEO9342wrmZ1wUoleK7f3CFMX------
