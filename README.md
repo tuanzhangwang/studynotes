@@ -1,9 +1,12 @@
 # studynotes
 
-C++ std::string和std::wstring之间的转换
+#### *C++ std::string和std::wstring之间的转换*
+
+```
 // 需包含locale、string头文件、使用setlocale函数。
+// string转wstring
 std::wstring StringToWstring(const std::string str)
-{// string转wstring
+{
     unsigned len = str.size() * 2;// 预留字节数
     setlocale(LC_CTYPE, "");     //必须调用此函数
     wchar_t *p = new wchar_t[len];// 申请一段内存存放转换后的字符串
@@ -13,8 +16,9 @@ std::wstring StringToWstring(const std::string str)
     return str1;
 }
 
+// wstring转string
 std::string WstringToString(const std::wstring str)
-{// wstring转string
+{
     unsigned len = str.size() * 4;
     setlocale(LC_CTYPE, "");
     char *p = new char[len];
@@ -23,3 +27,4 @@ std::string WstringToString(const std::wstring str)
     delete[] p;
     return str1;
 }
+```
