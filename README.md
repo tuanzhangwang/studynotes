@@ -5,7 +5,7 @@
   ><font color=green face="微软雅黑" size=4><br>&emsp;&emsp;Open qt notes : </font><font color=green face="微软雅黑" size=4>[<u>qt study notes.md</u>](qt/qt%20study%20notes.md "open qt study note markdown fille")<br><br></font>
 
 <br><br>
-# <img src="C++/C++title.png" width="64">
+# <img src="c++/C++title.png" width="64">
  
 + ### *C++ std::string和std::wstring之间的转换*
 
