@@ -1,10 +1,14 @@
 <font color=green face="微软雅黑" size=6>studynotes<br><br></font>
 
-# <img src="qt/qt_94938.svg" width="64">
+# <img src="qt/qt_94938.svg" width="64"> #
 
-  ><font color=green face="微软雅黑" size=4><br>&emsp;&emsp;Open qt notes : </font><font color=green face="微软雅黑" size=4>[<u>qt study notes.md</u>](qt/qt%20study%20notes.md "open qt study note markdown fille")<br><br></font>
+　　[<font color=green face="微软雅黑" size=4>++***Qt踩坑笔记***++</font>](qt/qt%20study%20notes.md "open qt study note markdown fille")  
+<br>
+　　[<font color=green face="微软雅黑" size=4>++***《Qt学习之路2》学习笔记***++</font>](qt/qt-study-road-2.md "open qt-study-road-2 markdown fille")
 
-<br><br>
+<br>
+<br>
+
 # <img src="C++/C++title.png" width="64">
  
 + ### *C++ std::string和std::wstring之间的转换*
