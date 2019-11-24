@@ -2,9 +2,9 @@
 
 # <img src="qt/qt_94938.svg" width="64"> #
 
-　　[<font color=green face="微软雅黑" size=4>++***Qt踩坑笔记***++</font>](qt/qt%20study%20notes.md "open qt study note markdown fille")  
+　　[<font color=green face="微软雅黑" size=4><u>***Qt踩坑笔记***</u></font>](qt/qt%20study%20notes.md "open qt study note markdown fille")  
 <br>
-　　[<font color=green face="微软雅黑" size=4>++***《Qt学习之路2》学习笔记***++</font>](qt/qt-study-road-2.md "open qt-study-road-2 markdown fille")
+　　[<font color=green face="微软雅黑" size=4><u>***《Qt学习之路2》学习笔记***</u></font>](qt/qt-study-road-2.md "open qt-study-road-2 markdown fille")
 
 <br>
 <br>
