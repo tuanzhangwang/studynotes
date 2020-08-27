@@ -54,3 +54,29 @@ button的mousePressEvent中调用QMouseEvent
   [*Qt 学习之路 2（24）：Qt 绘制系统简介*](https://www.devbean.net/2012/10/qt-study-road-2-paint-sys/)
 <br>
 
+* #### 视图和委托
+  [Qt 学习之路 2（46）：视图和委托](https://www.devbean.net/2013/03/qt-study-road-2-view-delegate/)
+
+  委托：　　
+  >继承QItemDelegate和QStyledItemDelegate需要实现以下几个函数：
+  > * createEditor()：返回一个组件。该组件会被作为用户编辑数据时所使用的编辑器，从模型中接受数据，返回用户修改的数据。
+  > * setEditorData()：提供上述组件在显示时所需要的默认值。
+  > * updateEditorGeometry()：确保上述组件作为编辑器时能够完整地显示出来。
+  > * setModelData()：返回给模型用户修改过的数据。
+  
+  然后，调用`void QAbstractItemView::setItemDelegate(QAbstractItemDelegate *delegate)`为view设置委托
+   
+* #### 视图选择
+  [Qt 学习之路 2（47）：视图选择](https://www.devbean.net/2013/03/qt-study-road-2-view-selection/)
+
+  >　　Qt 使用QItemSelectionModel类获取视图中项目的选择情况。这个模型保持有项目的索引，并且独立于任何视图。
+  >这意味着，我们可以让不同的视图共享同一个选择模型，从来达到一种同步操作的目的。　　
+  >
+  >　　一个视图的选择模型可以通过`selectionModel()`函数获取，然后使用`setSelectionModel()`提供给其它视图共享
+  >
+  >　　如果需要创建一个选区，我们需要指定一个模型以及一对索引，使用这些数据创建一个QItemSelection对象。
+  >然后使用`QItemSelectionModel::Select`将这个对象设置为选择模型的选择区。
+  >
+  >获取选区需要使用`selectedIndexes()`函数
+
+
